@@ -8,7 +8,6 @@ This program that utilizes Selenium WebDriver to send applications to all Linked
 * [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 <!-- * [License](#license) -->
 
