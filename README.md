@@ -25,9 +25,8 @@ interview. I took this project on so that I, alongside my peers, can optimize ou
 
 ## Features
 List the ready features here:
-- Flexibility in 
+- Flexibility in one's ability to alter job search parameters
 - Simple to run with just one click 
-- Awesome feature 3
 
 
 ## Usage
