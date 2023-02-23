@@ -1,5 +1,5 @@
 # linkedin-application-bot
-This program that utilizes Selenium WebDriver to send applications to all LinkedIn jobs that fall under specific user-defined criteria 
+This program utilizes Selenium WebDriver to send applications to all LinkedIn jobs that fall under specific user-defined criteria 
 
 ## Table of Contents
 * [General Info](#general-information)
